@@ -1,2 +1,1 @@
-101101110100001
-1001000000011010
+http://gamescn.xuegaogame.com/sgtf/update_h5/index.html
